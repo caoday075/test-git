@@ -1,0 +1,18 @@
+ul {
+	list-style-type:  none
+}
+a {
+
+}
+li {
+	float: left;	
+}
+li a {
+	cursor: pointer;
+	text-decoration: underline;
+	padding: 5px 10px;
+	color: black;
+}
+li a:hover {
+	color: blue;
+}
